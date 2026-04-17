@@ -10,7 +10,7 @@ All hardware IP was implemented in **Verilog**, synthesized with **Xilinx Vivado
 The architecture is categorized strictly by functional domain.
 
 ```text
-mips-hardware-design/
+mini-mips-processor/
 │
 ├── 01_Digital_Logic_and_Arithmetics/
 │   ├── src/
